@@ -96,7 +96,6 @@ streamlit run app/streamlit_dashboard.py
 
 ### Dashboard Screenshot
 
-![Streamlit Dashboard](outputs/figures/streamlit_dashboard.png)
 
 ## Outputs
 
