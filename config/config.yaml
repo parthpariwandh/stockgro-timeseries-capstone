@@ -1,0 +1,18 @@
+project_name: "TSA Capstone 2026 — Time Series Analysis & Virtual Portfolio Management"
+random_seed: 42
+
+data:
+  tickers:
+    - HDFCBANK.NS
+    - TCS.NS
+    - SUNPHARMA.NS
+    - HINDUNILVR.NS
+    - MARUTI.NS
+    - RELIANCE.NS
+  start_date: "2021-01-01"
+  end_date: "2025-12-31"
+  test_months: 6
+
+forecasting:
+  live_horizon_days: 2
+  validation_horizon_days: 5

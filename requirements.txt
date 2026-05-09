@@ -1,0 +1,14 @@
+numpy>=1.26
+pandas>=2.2
+yfinance>=0.2.40
+matplotlib>=3.8
+plotly>=5.22
+scikit-learn>=1.5
+scipy>=1.13
+statsmodels>=0.14
+pmdarima>=2.0
+prophet>=1.1
+tensorflow>=2.16
+arch>=7.0
+streamlit>=1.35
+PyYAML>=6.0
